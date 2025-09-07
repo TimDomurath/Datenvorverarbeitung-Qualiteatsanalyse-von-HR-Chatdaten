@@ -1,0 +1,6 @@
+pandas>=2.0
+matplotlib>=3.7
+wordcloud>=1.9
+# Optional for spaCy nouns cloud:
+# spacy>=3.7
+# de-core-news-sm
