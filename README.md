@@ -15,10 +15,11 @@
   - ![zws3](results/Wordcloud_zwischenstand3.svg)
   - ![zws4](results/Wordcloud_zwischenstand4.svg)
 
+Die Balkendiagramme zeigen, wie häufig einzelne Themen in den Chat‑Zwischenständen auftreten; hohe Balken weisen auf wiederkehrende Anliegen hin. Die Wortwolken visualisieren dieselben Daten als Cluster aus Schlüsselbegriffen – je größer das Wort, desto öfter wurde es genannt. Gemeinsam machen die Grafiken sichtbar, welche HR‑Themen die Nutzer besonders beschäftigen und liefern Ansatzpunkte für zielgerichtete Verbesserungen.
+
 
 ## Projektbeschreibung & Ergebnisse
-(…ausführliche Beschreibung mit Ausgangslage, Zielen, Vorgehen zws1–zws4, optional spaCy, Ergebnissen und HR‑Nutzen…)
-Siehe `docs/Summary.md` für die Langfassung.
+Dieses Projekt analysiert HR‑Webchat‑Daten, um wiederkehrende Anliegen in Bewerbungsprozessen zu identifizieren. Die Chats werden bereinigt, tokenisiert und in mehreren Zwischenständen ausgewertet. Häufig genannte Themen drehen sich um Bewerbungsstatus, Vertragsunterlagen, Benefits und Feedbackprozesse. Die Ergebnisse helfen HR‑Teams, Informationslücken zu schließen und Anfragen effizienter zu bearbeiten. Weitere Details stehen in `docs/Summary.md`.
 
 
 ## Hinweis für Reviewer (Python-Skills & Reproduzierbarkeit)
